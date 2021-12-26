@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>sample-release</name>
-		    <url>http://18.205.158.221:8081/repository/sample-release/</url>
+	      <name>maven-release</name>
+	      <url>http://18.205.158.221:8081/repository/maven-release/</url>
 	    </repository>
 	    
             <snapshotRepository>
 	      <id>nexus</id>
-	      <name>sample-snapshot</name>
-	      <url>http://18.205.158.221:8081/repository/sample-snapshot/</url>
+	      <name>maven-snapshot</name>
+	      <url>http://18.205.158.221:8081/repository/maven-snapshot/</url>
 	    </snapshotRepository> 
 	    
 	</distributionManagement>
