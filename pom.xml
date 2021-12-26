@@ -101,11 +101,11 @@
 	      <url>http://18.205.158.221:8081/repository/mavenwebapprelease/</url>
 	    </repository>
 	    
-<!-- <snapshotRepository>
+            <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
 	      <url>http://54.255.174.111:8081/repository/flipkart-snapshot/</url>
-	    </snapshotRepository> -->
+	    </snapshotRepository> 
 	    
 	</distributionManagement>
 	
